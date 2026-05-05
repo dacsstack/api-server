@@ -1,8 +1,0 @@
-[build]
-builder = "nixpacks"
-buildCommand = "pnpm install && pnpm run build"
-
-[deploy]
-startCommand = "pnpm start"
-restartPolicyType = "on_failure"
-restartPolicyMaxRetries = 3
