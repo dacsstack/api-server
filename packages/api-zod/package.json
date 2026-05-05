@@ -1,0 +1,9 @@
+{
+  "name": "@workspace/api-zod",
+  "version": "1.0.0",
+  "description": "API Zod schemas",
+  "main": "index.ts",
+  "dependencies": {
+    "zod": "catalog:"
+  }
+}

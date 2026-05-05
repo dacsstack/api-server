@@ -1,0 +1,9 @@
+{
+  "name": "@workspace/db",
+  "version": "1.0.0",
+  "description": "Database utilities",
+  "main": "index.ts",
+  "dependencies": {
+    "drizzle-orm": "catalog:"
+  }
+}
