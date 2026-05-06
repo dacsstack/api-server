@@ -4,6 +4,10 @@
   "description": "Database utilities",
   "main": "index.ts",
   "dependencies": {
-    "drizzle-orm": "catalog:"
+    "drizzle-orm": "catalog:",
+    "pg": "^8.13.3"
+  },
+  "devDependencies": {
+    "@types/pg": "^8.11.14"
   }
 }
